@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDSAb9b1pNTZ2Q4ArstA5BTcOml3FwUp-s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>296650236210</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.holbegrame.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>holbegram-e8f1f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>holbegram-e8f1f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:296650236210:ios:8fd4ffa43a5cf06446372b</string>
+</dict>
+</plist>
